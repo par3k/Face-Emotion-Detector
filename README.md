@@ -13,7 +13,6 @@ Sentimental Analysis by Image Processing
 
 # Result
 ![r1](https://github.com/par3k/Face-Emotion-Detector/blob/master/1.JPG)
-![r2](https://github.com/par3k/Face-Emotion-Detector/blob/master/2.JPG)
 License
 ----
 
