@@ -10,7 +10,9 @@ Sentimental Analysis by Image Processing
 * Keras --2.3.1</br>
 * OpenCV --4.2.0.32</br>
 * Numpy --1.18.2
- 
+
+# Result
+
 License
 ----
 
