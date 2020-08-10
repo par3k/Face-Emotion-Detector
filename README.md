@@ -1,5 +1,6 @@
 # Face-Emotion-Detector
 Sentimental Analysis by Image Processing
+캐글에 있는 얼굴 데이터 샘플을 이용하여 사람의 얼굴 표정을 인식하는 파이썬 응용프로그램으 개발했습니다.
 
 # Development Information
 * Python --3.7, Pycharm</br>
