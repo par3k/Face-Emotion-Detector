@@ -1,5 +1,5 @@
 # Face-Emotion-Detector
-Sentimental Analysis by Image Processing</br>
+Sentimental Analysis by Image Processing</br></br>
 캐글에 있는 얼굴 데이터셋을 이용하여 CNN모델로 학습하여</br>
 사람의 얼굴 표정을 인식하는 파이썬 응용프로그램을 개발했습니다.</br>
 
